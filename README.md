@@ -6,4 +6,4 @@
 - restrict in time
 - weekly report to lecture
 
-by [kennethkongwk](https://github.com/kennethkongwk/), [tanmoon20](https://github.com/tanmoon20/), Liew Yik Pui, [Adele2701](https://github.com/Adele2701/)
+by [kennethkongwk](https://github.com/kennethkongwk/), [tanmoon20](https://github.com/tanmoon20/), Liew Yik Pui/Liew Yik Kai, [Adele2701](https://github.com/Adele2701/)
